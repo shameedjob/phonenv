@@ -1,6 +1,8 @@
 # Phonenv
 
 Phonenv is a Python library for dealing with word pluralization.
+## Input File
+Input files should be a list of words with each entry having it's own line.
 
 ## CLI Usage
 
