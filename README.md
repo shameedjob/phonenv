@@ -1,6 +1,6 @@
 # Phonenv
 
-Phonenv is a Python library for dealing with word pluralization.
+Phonenv is a Python library for locating phoneme enevironments
 ## Input File
 Input files should be a list of words with each entry having its own line.
 
@@ -37,8 +37,6 @@ python3 phonenv_cl.py add_special '&z'
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
